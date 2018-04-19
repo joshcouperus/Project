@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+	
+	background-image: url("https://images.pexels.com/photos/6966/abstract-music-rock-bw.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+
+.logo {
+	height: 200px;
+	width: 200px;
+	float: right;
+	border-radius: 100px;
+	}
+
+.title{
+	text-align: center;
+	font-size: 45px;
+	
+}
+
+.pic1{
+	width: 315px;
+	height: auto;
+	border-radius: 15px;
+
+	
+	
+}
+
+.pic2{
+	width: 315px;
+	height: auto;
+	border-radius: 15px;
+	
+	
+}
+
+.pic3{
+	width: 315px;
+	height: auto;
+	border-radius: 15px;
+	
+	
+	
+}
+
+.button1{
+	background-color: black;
+	border-radius: 12px;
+	width:333px;
+	height:250px;
+	float: left;
+	position: relative;
+	top: 100px;
+}
+
+.button2{
+	background-color: black;
+	border-radius: 12px;
+	width:333px;
+	height:250px;
+	float: left;
+	position: relative;
+	top: 100px;
+}
+
+.button3{
+	background-color: black;
+	border-radius: 12px;
+	width:333px;
+	height:250px;
+	float: left;
+	position: relative;
+	top: 100px;
+}
+
+.button4{
+	background-color: black;
+	border-radius: 12px;
+	width:333px;
+	height:250px;
+	float: left;
+	position: relative;
+	top: 100px;
+}
+
+
+
+p{
+	color: white;
+	font-size: 19px;
+}
+
+
+.pic4{
+	Height: 300px;
+	width:auto;
+	position: relative;
+	top: 100px;
+	border: solid 2px black;
+}
+
+.div1{
+	width:400px;
+	text-align: center;
+	display: inline-block;
+	
+}
+
+footer {
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+	text-align: center;
+	color: blue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+} 
+
+li a {
+    display: block right;
+}
+
+ul {
+    list-style-type: none;
+    width: 200px;
+    background-color: grey;
+	border: solid 2px black;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: bold;
+	border: solid 1px black;
+	text-align: center;
+}
+
+li a:hover {
+    background-color: black;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
