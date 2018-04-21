@@ -19,35 +19,46 @@ body {
 .title{
 	text-align: center;
 	font-size: 45px;
-	
+	color: white;
+	text-shadow: 4px 4px 8px #000000;
 }
 
 .pic1{
 	width: 315px;
 	height: auto;
 	border-radius: 15px;
-
-	
-	
 }
 
 .pic2{
 	width: 315px;
 	height: auto;
 	border-radius: 15px;
-	
-	
 }
 
 .pic3{
 	width: 315px;
 	height: auto;
 	border-radius: 15px;
-	
-	
-	
 }
 
+.pic4{
+	Height: 300px;
+	width:auto;
+	position: relative;
+	top: 100px;
+	border: solid 2px gold;
+	box-shadow: 5px 10px #000000;
+	left: 2%;
+}
+.pic5{
+	Height: 300px;
+	width:auto;
+	position: relative;
+	top: 100px;
+	border: solid 2px gold;
+	box-shadow: 5px 10px #000000;
+	left: 2%;
+}
 .button1{
 	background-color: black;
 	border-radius: 12px;
@@ -96,19 +107,13 @@ p{
 }
 
 
-.pic4{
-	Height: 300px;
-	width:auto;
-	position: relative;
-	top: 100px;
-	border: solid 2px black;
-}
+
 
 .div1{
 	width:400px;
 	text-align: center;
 	display: inline-block;
-	
+	margin-left: 4%;
 }
 
 footer {
@@ -117,7 +122,7 @@ footer {
     bottom: 0;
     width: 100%;
 	text-align: center;
-	color: blue;
+	color: white;
 }
 ul {
     list-style-type: none;
@@ -151,15 +156,35 @@ li a:hover {
    
 }
 
+.div7{
+	
+	display:inline-block;
+	height: 50px;
+	width: 50px;
+	position: relative;
+	top:450px;
+	right:1400px;
+	
+	
+}
 
+.pic7{
+	width:100%;
+	height:auto;
+	position: relative;
+	top: -530px;
+	z-index:-2;
+	
+}
 
-
-
-
-
-
-
-
+.divb{
+	float: left;
+	position: relative;
+	top: 150px;
+	background-color: gold;
+	border-radius:12px;
+	border: 5px solid gold;
+}
 
 
 
