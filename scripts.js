@@ -14,8 +14,5 @@ function hide(){
 	
 }
 
-function menu(x) {
-    x.classList.toggle("change");
-}
 
 
