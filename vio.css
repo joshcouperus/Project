@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+	padding: 0;
+}
+
+body{
+
+	background-image: url("https://cdn.instructables.com/FR8/CWWW/G76M56OJ/FR8CWWWG76M56OJ.LARGE.jpg");
+
+	background-repeat: no-repeat;
+
+	background-size: 100% auto;
+
+	}
+.logo {
+
+	height: 200px;
+
+	width: 200px;
+
+	float: right;
+
+	border-radius: 100px;
+
+	}
+.title{
+
+	text-align: center;
+
+	font-size: 45px;
+
+	color: white;
+
+	text-shadow: 4px 4px 8px #000000;
+
+	}
+	.pic8{
+
+	Height: 300px;
+
+	width:auto;
+
+	position: relative;
+
+	top: 100px;
+
+	border: solid 2px gold;
+
+	box-shadow: 5px 10px #000000;
+
+	left: 2%;
+
+	}
+.pic9{
+
+	Height: 300px;
+
+	width:auto;
+
+	position: relative;
+
+	top: 100px;
+
+	border: solid 2px gold;
+
+	box-shadow: 5px 10px #000000;
+
+	left: 2%;
+
+	}
+	p{
+
+	color: white;
+
+	font-size: 19px;
+
+	}
+.div2{
+
+	width:400px;
+
+	text-align: center;
+
+	display: inline-block;
+
+	margin-left: 4%;
+
+	}
+	ul {
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    width: 60px;
+
+	} 
+	li a {
+
+    display: block right;
+
+	}
+ul {
+
+    list-style-type: none;
+
+    width: 200px;
+
+    background-color: grey;
+
+	border: solid 2px black;
+
+	}
+li a {
+
+    display: block;
+
+    color: white;
+
+    padding: 8px 16px;
+
+    text-decoration: bold;
+
+	border: solid 1px black;
+
+	text-align: center;
+
+	}
+li a:hover {
+
+    background-color: gold;
+
+   }
+   .pic10{
+
+	width:100%;
+
+	height:auto;
+
+	position: relative;
+
+	top: -530px;
+
+	z-index:-2;
+
+	}
+.divc{
+
+	float: left;
+
+	position: relative;
+
+	top: 150px;
+
+	background-color: gold;
+
+	border-radius:12px;
+
+	border: 5px solid gold;
+
+	}
+.dimage2{
+
+	height:990px;
+
+	width:100%;
+
+	background-image: url("http://toby-marshall.com/wp-content/uploads/2014/03/DSC8063.jpg");
+
+	background-repeat: no-repeat;
+
+	background-size: 100% auto;
+
+	}
+.gui3{
+
+	height:300px;
+
+	width:auto;
+
+	position:relative;
+
+	top:275px;
+
+	right:140px;
+
+	border: solid 2px gold;
+
+	box-shadow: 5px 10px #000000;
+
+	}
+.gui4{
+
+	height:300px;
+
+	width:auto;
+
+	position:relative;
+
+	bottom:715px;
+
+	left:955px;
+
+	border: solid 2px gold;
+
+	box-shadow: 5px 10px #000000;
+
+	}
+.h33{
+
+	position:relative;
+
+	top:300px;
+
+	left:60px;
+
+	width: 400px;
+
+	}
+.h34{
+
+	position:relative;
+
+	width: 400px;
+
+	bottom:695px;
+
+	left:977px;
+
+	}
